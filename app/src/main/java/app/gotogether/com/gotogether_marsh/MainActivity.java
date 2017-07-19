@@ -1,4 +1,4 @@
-package app.gotogether.com.gotogether_marsh;
+package app.gotogether.com.go_together;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
